@@ -5,7 +5,8 @@ module Main
         import System.Random
         import Data.Char
 
-        ---to compile: ghc encrypt.hs
+        ---to compile: ghc encrypt.hs  or  ghc -o encrypt encrypt.hs
+        ---to run: ./encrypt (or file name, or other name provided)
 
 
 
